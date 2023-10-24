@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "All we have is deduction..."
+date:   2023-10-23 23:27:24 +0100
+categories: introduction
+---
+The story I am about to tell you should not be interesting. I used to be embarrassed about even mentioning it.
+
+Yet over the past few weeks, as I've started to relate this story to my friends and family, all have reacted with at least some interest, most of them 
+with _extreme_ interest, drawn in by the intrigue of the case, and none of them have had the common decency to tell me "Shut the hell up Roberto, this 
+story is about as interesting as watching paint dry".
+
+This story is about watching paint dry. And then get wet again. Then dry, fleetingly, before becoming flickeringly wet once more. This story is 
+deeply, enchantingly, about that, and the hunt to find the unknown _reason_ for its dampness, hidden behind a solid wall of uncertainty, 
+unknowability, and… well… wall.
+
+As I begin to tell my story, you will begin to form your own theories. "It's the washing machine!" you will say, or "It definitely gets worse with 
+rain".
+
+But the truth is, we don't know. Nobody _knows_. And the only way we're going to solve this thing is with the scientific method of deduction.
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight ruby %}
+def print_hi(name)
+  puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+{% endhighlight %}
+
